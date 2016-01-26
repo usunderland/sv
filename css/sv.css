@@ -5605,7 +5605,7 @@ html {
 .sv-header-image {
   height: 50px;
   width: 118px;
-  background: url("https://evisionsite.sunderland.ac.uk/pgonline/0910/img/uos-logo.png") center center no-repeat;
+  background: url("https://raw.githubusercontent.com/usunderland/sv/master/img/uos_logo.png") center center no-repeat;
 }
 .sv-header-text {
   background-color: #185da9;
